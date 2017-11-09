@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Athlete
+comment1.params=yr\ nm
+comment1.target=Athlete(int,\ java.lang.String)
+comment2.params=other
+comment2.target=boolean\ equals(Athlete)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
